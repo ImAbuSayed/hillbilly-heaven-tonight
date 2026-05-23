@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hillbilly-heaven-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Hillbilly Heaven Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hillbilly-heaven-tonight/) |
+| **Get License** | [Obtain a Music License for Hillbilly Heaven Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hillbilly-heaven-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f14fbfadefac890914d3cbcfc25eb3690bae2681191a39e852803b4f5cc6f866` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
