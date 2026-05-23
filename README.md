@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Slide a little closer in this dim cafe light
+> Let me trace the steady rhythm of your breathing tonight
+> There's a slow-burn magic pulling me to your flame
+> Got my heart beating wild just whispering your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
